@@ -92,7 +92,6 @@ button {
   color: #333;
 }
 
-/*New Task */
 .todo__title--new-item {
   display: block;
   margin: 0 0 20px;
@@ -141,13 +140,11 @@ li > * {
   transform: rotateZ(0);
 }
 
-/* Completed */
 #todo__complete-tasks .todo__item__label {
   text-decoration: line-through;
   color: #888;
 }
 
-/*Edit Task*/
 .todo__item__input {
   display: none;
 }
